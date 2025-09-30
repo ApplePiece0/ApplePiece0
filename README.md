@@ -26,21 +26,21 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/hataelfa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hataelfa&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=n1yshi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n1yshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/9a/dc/06/9adc06c9420e4dcb636d0efbb144fb73.jpg"  />
+<img align="right" height="180" src="https://i.pinimg.com/736x/9a/dc/06/9adc06c9420e4dcb636d0efbb144fb73.jpg"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n1yshi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n1yshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <a href="https://open.spotify.com/user/hataelfa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hataelfa&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
