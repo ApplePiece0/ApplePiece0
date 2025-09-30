@@ -38,11 +38,3 @@
 
 ###
 
-
-<div align="left">
-  <a href="https://open.spotify.com/user/hataelfa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hataelfa&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
