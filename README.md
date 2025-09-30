@@ -26,9 +26,18 @@
 
 ###
 
-<img align="right" height="300" src="https://i.pinimg.com/736x/9a/dc/06/9adc06c9420e4dcb636d0efbb144fb73.jpg"  />
+<img align="right" height="250" src="https://i.pinimg.com/736x/9a/dc/06/9adc06c9420e4dcb636d0efbb144fb73.jpg"  />
 
 ###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/hataelfa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hataelfa&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 
 <div align="left">
   <a href="https://open.spotify.com/user/hataelfa">
